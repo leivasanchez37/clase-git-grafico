@@ -2,3 +2,4 @@
 visibility
 mi-bio.txt
 agregando mi bio
+actualizando mi bio
