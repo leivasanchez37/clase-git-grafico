@@ -1,0 +1,26 @@
+class Celular:
+    def __init__(self, marca, modelo):
+        self.marca = marca
+        self.modelo = modelo
+
+    def llamar(self):
+        print(f"Llamando desde {self.marca} {self.modelo}")
+
+
+# Crear dos celulares
+cel1 = Celular("Samsung", "Galaxy A10S")
+cel2 = Celular("Redmi", "Note 12s")
+
+# Menú de opciones
+print("Elige un celular para llamar:")
+print("1. Samsung Galaxy A10s")
+print("2. Redmi Note 12s")
+
+opcion = input("Ingresa opción 1 o 2: ")
+
+if opcion == "1":
+    cel1.llamar()
+elif opcion == "2":
+    cel2.llamar()
+else:
+    print("Opción no válida")
