@@ -1,0 +1,13 @@
+ ¿que aprendí de git hoy?
+✔ Clonar repositorios
+✔ Crear y editar archivos en Git
+✔ Enviar cambios con add, commit y push
+✔ La diferencia entre sistemas de control de versiones
+✔ Escribir mensajes de commit correctos.
+
+ ¿Qué fue fácil y que fue difícil?
+ Fácil:
+Entender qué es Git.
+Difícil:
+Clonar un repositorio
+
